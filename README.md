@@ -8,3 +8,7 @@ Install Flask-Restful using [pip install flask-restful](https://flask-restful.re
 After cloning, open Python shell and run the init_db() method from [api.py](https://github.com/thedanielzhang/berkeley-pantry/blob/master/api.py)
 
 
+## Useful tools
+[DB Browser For SQLITE](https://sqlitebrowser.org/)
+
+
